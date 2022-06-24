@@ -6,7 +6,6 @@ specifiers:
   vite: ^2.9.9
   vite-plugin-solid: ^2.2.6
   vite-plugin-windicss: ^1.8.4
-  windicss: ^3.5.5
 
 dependencies:
   solid-js: 1.4.2
@@ -16,7 +15,6 @@ devDependencies:
   vite: 2.9.9
   vite-plugin-solid: 2.2.6
   vite-plugin-windicss: 1.8.4_vite@2.9.9
-  windicss: 3.5.5
 
 packages:
 

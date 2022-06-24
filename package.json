@@ -1,19 +1,17 @@
 {
   "name": "omth-solid",
   "version": "1.0.0",
-  "description": "OMTHT2022 beta website using solidjs",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "test": "vitest"
   },
-  "license": "MIT",
   "devDependencies": {
     "typescript": "^4.6.4",
     "vite": "^2.9.9",
     "vite-plugin-solid": "^2.2.6",
-    "vite-plugin-windicss": "^1.8.4",
-    "windicss": "^3.5.5"
+    "vite-plugin-windicss": "^1.8.4"
   },
   "dependencies": {
     "solid-js": "^1.4.2"
